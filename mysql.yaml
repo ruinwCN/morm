@@ -1,0 +1,12 @@
+# mysql
+address: "127.0.0.1"
+port : 3306
+user_name : "root"
+password : ""
+database : "event_project"
+tag : ""
+
+timeout : 30
+max_life_time : 300
+max_open_conns: 1024
+max_idle_conns : 1024
